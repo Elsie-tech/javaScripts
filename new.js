@@ -42,3 +42,17 @@ console.log (fruit);
  tipAmount = food * tipPercentage;
  console.log (tipAmount);
  alert (tipAmount);
+
+ //conditionals: are used in statements to compare variables values and/or data types. 
+
+ let weather = prompt("how is the weather?");
+ if (weather == 'rainy ') {
+    console.log("Grab your umbrella");
+    
+ }
+ else {
+    console.log ("wear sunglasses");s
+ }
+
+ //function is a block of code designed to perform a particular task and is executed when"something" calls it.
+  
